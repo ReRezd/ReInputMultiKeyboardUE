@@ -40,4 +40,3 @@ Currently, this plugin leverages Windows-specific libraries, meaning it will not
 ## Usage
 
 If you use this in a project of yours all I ask is that you provide credit to either this project (as "ReInput") or me (as "Joe [ReRezd]")
-~~~~
