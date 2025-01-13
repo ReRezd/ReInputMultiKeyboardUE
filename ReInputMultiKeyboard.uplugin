@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ReInputMultiKeyboard",
+	"Description": "Plugin to allow multiple keyboards to work as input devices at the same time on Windows",
+	"Category": "Other",
+	"CreatedBy": "Joe [ReRezd]",
+	"CreatedByURL": "https://jrizzo.dev",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ReInputMultiKeyboard",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
